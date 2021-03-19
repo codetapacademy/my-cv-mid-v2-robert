@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react"
+import { Form } from "../form"
+import { Welcome } from "../welcome"
 
 export const MyCv = () => {
   return (
     <div>
-      <h1>Here isn't HTML</h1>
+      <Welcome />
+      <Form />
     </div>
   )
 }
