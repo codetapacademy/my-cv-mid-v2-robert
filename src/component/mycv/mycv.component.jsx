@@ -6,7 +6,6 @@ export const MyCv = () => {
   return (
     <div>
       <Welcome />
-      <Form />
     </div>
   )
 }
